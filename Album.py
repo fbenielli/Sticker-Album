@@ -56,6 +56,5 @@ resultado = repetir(nrep, figus_total, figus_paquete)
 print(resultado)
 print("El promedio de paquetes necesarios para llenar un album de", figus_total,"figuritas es de: ", np.mean(resultado))
 
-#No complete los ejercicios optativos.
 
 
